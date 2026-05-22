@@ -180,3 +180,5 @@ customer-shopping-analysis/
 │   └── Customer_Shopping_Behavior_Analysis.pdf
 └── README.md
 ```
+Author
+Kavya Kumar
